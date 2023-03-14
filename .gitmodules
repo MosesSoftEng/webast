@@ -1,0 +1,3 @@
+[submodule "webast-chrome-extension"]
+	path = webast-chrome-extension
+	url = https://github.com/MosesSoftEng/webast-chrome-extension.git
