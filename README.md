@@ -1,2 +1,2 @@
 # WebAst
-Browsing AI Assistant.
+Browsing AI Assistant Project.
